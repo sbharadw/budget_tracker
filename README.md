@@ -1,14 +1,18 @@
-# Online/Offline Budget Trackers
+## Online/Offline Budget Trackers
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the application populates the total when brought back online.
 
-Offline Functionality:
+## Deployed URL - 
+
+https://safe-tor-14245.herokuapp.com/
+
+## Offline Functionality:
 
   * Enter deposits offline
 
   * Enter expenses offline
 
-When brought back online:
+## When brought back online:
 
   * Offline entries are added to tracker
 
